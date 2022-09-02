@@ -6,7 +6,7 @@ namespace fs = std::filesystem;
 
 void main(int argc, char** argv) {
 	if (argc == 1) {
-		cout << "将星穹铁道Unity3d文件转为正常Unity3d文件 By:菠萝小西瓜" << endl;
+		cout << "将原神Blk文件转为正常Unity3d文件 By:菠萝小西瓜" << endl;
 		cout << "本程序仅在内群传播，禁止外传！！！" << endl;
 		cout << endl;
 		cout << "参数: <method> <inpath> <outpath>" << endl;
