@@ -7,8 +7,6 @@
 
 # 参考
 
-[HoYoStudio](https://github.com/Razmoth/HoYoStudio)
-
 [AssetStudio](https://github.com/Perfare/AssetStudio)
 
 [genshinblkstuff](https://github.com/khang06/genshinblkstuff)
