@@ -1,7 +1,7 @@
 # Translate_Genshin_Blk_Files
 
 > 将原神Blk文件转为正常Unity3d文件
-> 适用于2.x~最新版本
+> 适用于1.0~4.5
 
 > Warning : 转换好的文件不能被原版AssetStudio读取!!!!!
 
